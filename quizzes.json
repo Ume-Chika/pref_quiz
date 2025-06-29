@@ -1,0 +1,30 @@
+{
+    "0": {
+        "image_path": "/static/images/hokkaidou.png",
+        "correctAnswer": "北海道"
+    },
+    "1": {
+        "image_path": "/static/images/aomori.png",
+        "correctAnswer": "青森県"
+    },
+    "2": {
+        "image_path": "/static/images/iwate.png",
+        "correctAnswer": "岩手県"
+    },
+    "3": {
+        "image_path": "/static/images/miyagi.png",
+        "correctAnswer": "宮城県"
+    },
+    "4": {
+        "image_path": "/static/images/akita.png",
+        "correctAnswer": "秋田県"
+    },
+    "5": {
+        "image_path": "/static/images/yamagata.png",
+        "correctAnswer": "山形県"
+    },
+    "6": {
+        "image_path": "/static/images/fukushima.png",
+        "correctAnswer": "福島県"
+    }
+}
